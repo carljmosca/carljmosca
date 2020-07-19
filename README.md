@@ -1,6 +1,5 @@
-### Hi there 👋
+### I'm currently working on containerized applications Kubernetes and OpenShift primarily Java but other technologies as needed.
 
-<!--
 **carljmosca/carljmosca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,2 +1,1 @@
-### I'm currently working on containerized applications Kubernetes and OpenShift primarily Java but other technologies as needed.
-
+### Still having fun...working with Kubernetes/OpenShift, Java, Python, and a variety of other stuff as needed.
